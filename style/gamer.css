@@ -1,0 +1,65 @@
+.play{
+display: flex;
+width: 50%;
+align-items: center;
+gap: 10px;
+    
+
+}
+.play img{
+    height: 30px;
+    width: 50px;
+}
+
+.run{
+    display: flex;
+    
+    align-items: center;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+nav ul li {
+    list-style: none;
+    
+}
+span{
+    color: blueviolet;
+}
+.jump{
+font-size: 95px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+text-transform: uppercase;
+background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+.red{
+    background-color: #8758F1;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+}
+.sky{
+    background-color: aqua;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+}
+.race{
+    background-image: url(../images/Group\ 14.png);
+    width: 800px;
+    height: 500px;
+    background-repeat: no-repeat;
+}
+.bigger{
+    display: flex;
+}
+.small{
+    width: 500px;
+}
