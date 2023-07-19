@@ -82,15 +82,40 @@ background-clip: text;
     
 }
 .long-content{
+    
     max-width: 400px;
     
 }
 .long-content h3{
      font-size: 40px;
 }
+.long-run{
+    position: relative;
+    bottom: 100px;
+    
+}
+.long-stop{
+    margin-left: 90px;
+}
+
+
+
 .box-image{
     display: flex;
-    padding: 40px;
+    flex-wrap: wrap;
+    padding: 50px;
+    background-color: bisque;
+    gap: 50px;
+}
+.single-image{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+}
+.single-image:hover{
+    border: 2px solid red;
+    color:red;
 }
 footer{
     background-color: black;
@@ -118,6 +143,10 @@ align-items: center;
     display: flex;
     justify-content: center;
     gap: 20px;
+
+
+        
+    
 }footer{
     padding: 30px;
 }
@@ -125,6 +154,8 @@ align-items: center;
     width: 30px;
     height: 30px;
 }
+
+
 
 
 
