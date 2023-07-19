@@ -92,6 +92,42 @@ background-clip: text;
     display: flex;
     padding: 40px;
 }
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+footer ul{
+    background-color: black;
+}
+.black{
+display: flex;
+justify-content: center;
+gap: 20px;
+align-items: center;
+    
+}
+.rini{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.green ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}footer{
+    padding: 30px;
+}
+.simi{
+    width: 30px;
+    height: 30px;
+}
+
+
+
     
     
 
