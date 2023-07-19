@@ -63,3 +63,38 @@ background-clip: text;
 .small{
     width: 500px;
 }
+.short{
+    text-align: center;
+    
+    
+    
+}
+.container-image{
+    display: flex;
+    padding: 10px;
+    gap: 10px;
+    
+}
+.long{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.long-content{
+    max-width: 400px;
+    
+}
+.long-content h3{
+     font-size: 40px;
+}
+.box-image{
+    display: flex;
+    padding: 40px;
+}
+    
+    
+
+
+
+
