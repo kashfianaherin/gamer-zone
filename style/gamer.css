@@ -155,6 +155,40 @@ align-items: center;
     height: 30px;
 }
 
+@media screen and (max-width :576px) {
+   
+    
+    .run{
+        flex-direction: column;
+}
+.play{
+    flex-direction: column;
+}
+   } 
+.container-image{
+    flex-direction: column;
+}
+.bigger{
+    flex-direction: column;
+    
+}
+.race{
+    flex-direction: column;
+}
+.long{
+    flex-direction: column;
+}
+.box-image{
+    flex-direction: column;
+}
+.white{
+    flex-direction: column;
+}
+
+
+    
+
+
 
 
 
